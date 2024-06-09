@@ -1,0 +1,1 @@
+const linkAPI = 'https://genshin.jmp.blue/characters';
